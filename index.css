@@ -1,0 +1,24 @@
+.header{
+	width:full;
+	height:20%
+}
+.menu{
+	margin-left:0;
+	width:full;
+	height:5%;
+}
+.menu-style{
+	width:100%; 
+	height:36px; 
+	line-height:36px; 
+	background:#ab2433; 
+	margin:10px auto 0 auto;
+}
+.nav li{
+	float:left; 
+	width:130px; 
+	border-right:#FFFFFF solid 2px; 
+	text-align:center;
+	list-style-type:none;
+	color:white;
+}
